@@ -1,2 +1,2 @@
 # blockpay
-Golang block chain implement from scratch
+Golang block chain implementation from scratch
